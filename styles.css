@@ -1,0 +1,41 @@
+
+body {
+    font-family: helvetica;
+    background: url("https://source.unsplash.com/random/205x200");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+ 
+.container {
+    width: 50%;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 35px;
+    color: burlywood;
+    
+}
+
+button {
+    padding: 1%;
+    margin: 1% 50%;
+}
+img{
+    height: 400px;
+    border: 2px groove rgba(139, 22, 22, 0.829);
+    width: 100%;
+}
+
+p {
+    text-align: center;
+    color: rgb(2, 77, 48);
+    font-weight: 800;
+}
+
+h5 {
+  color: rgb(2, 77, 48);
+  text-align: center;
+}
